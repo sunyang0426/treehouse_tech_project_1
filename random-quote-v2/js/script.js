@@ -14,6 +14,7 @@ function print(quote) {
 	 outputDiv.innerHTML = quote; 
 }
 
+
 /*Function to get a random object from quotes array and store in variable
  randomQuote */
 
